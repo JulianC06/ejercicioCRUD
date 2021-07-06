@@ -1,0 +1,20 @@
+{
+  "nombres": [
+    {
+      "cod": 0,
+      "nombre": "Julian"
+    },
+    {
+      "cod": 1,
+      "nombre": "Talia"
+    },
+    {
+      "cod": 2,
+      "nombre": "Mateo"
+    },
+    {
+      "cod": 3,
+      "nombre": "William"
+    }
+  ]
+}
